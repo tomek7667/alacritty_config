@@ -1,0 +1,11 @@
+[font]
+# style = "Regular"
+normal.family = "Hack Nerd Font Mono"
+size = 12.0
+
+[window]
+startup_mode = "Maximized"
+
+[keyboard]
+bindings = [{ key = "F11", action = "ToggleFullscreen" }]
+
